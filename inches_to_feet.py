@@ -21,7 +21,7 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
 inches = int(input("Enter the number of inches: "))    
-print(f"\n{inches} inches is {inches//12} feet, and {inches%12} inches")
+print(f"{inches} inches is {inches//12} feet, and {inches%12} inches")
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
